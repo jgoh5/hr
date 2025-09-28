@@ -4,7 +4,7 @@ import fitz  # PyMuPDF (PDF parsing)
 import re
 
 # OpenAI 클라이언트 초기화
-client = OpenAI(api_key="YOUR_API_KEY")
+client = OpenAI(api_key="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")
 
 # ---------------------------
 # PDF → 지원자 정보 추출
