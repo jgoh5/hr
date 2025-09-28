@@ -1,3 +1,5 @@
+import os   
+from openai import OpenAI
 import streamlit as st
 from openai import OpenAI
 import fitz  # PyMuPDF (PDF parsing)
